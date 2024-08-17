@@ -1,0 +1,6 @@
+discord.py
+requests
+discord
+asyncio
+aiohttp
+PyNaCl
