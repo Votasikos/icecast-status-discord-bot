@@ -1,5 +1,6 @@
 Discord Icecast Radio Bot
-A Discord bot that streams audio from an Icecast server into a voice channel and provides real-time updates about the currently playing song and number of listeners. The bot also supports commands to get current song details and listener counts directly from a Discord text channel.
+A Discord bot that streams audio from an Icecast server into a voice channel and provides real-time updates about the currently playing song and number of listeners. 
+The bot also supports commands to get current song details and listener counts directly from a Discord text channel.
 
 Features
 Streams audio from an Icecast server to a Discord voice channel.
@@ -9,7 +10,7 @@ Provides commands to fetch and display current song and listener details.
 Installation
 Clone the Repository
 ```pip install -r requirements.txt```
-bash
+
 Open the bot.py file and replace the placeholders with your actual configuration:
 TOKEN = 'PLACE_YOUR_DISCORD_BOT_TOKEN_HERE'  # Your Discord Bot token
 ICECAST_URL = 'http://ICECAST_SERVER_IP:ICECAST_PORT/stream'  # URL for streaming
