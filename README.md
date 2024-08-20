@@ -13,17 +13,17 @@ Clone the Repository
 
 Open the bot.py file and replace the placeholders with your actual configuration:
 
->`TOKEN = 'PLACE_YOUR_DISCORD_BOT_TOKEN_HERE'`  Your Discord Bot token
+`TOKEN = 'PLACE_YOUR_DISCORD_BOT_TOKEN_HERE'`  Your Discord Bot token
 
->`ICECAST_URL = 'http://ICECAST_SERVER_IP:ICECAST_PORT/stream'`  # URL for streaming
+`ICECAST_URL = 'http://ICECAST_SERVER_IP:ICECAST_PORT/stream'`  # URL for streaming
 
->`ICECAST_STATUS_URL = 'http://ICECAST_SERVER_IP:ICECAST_PORT/status-json.xsl'`  # URL for status
+`ICECAST_STATUS_URL = 'http://ICECAST_SERVER_IP:ICECAST_PORT/status-json.xsl'`  # URL for status
 
->`VOICE_CHANNEL_ID = PLACE_YOUR_VOICE_CHANNEL_ID`  # Replace with your voice channel ID
+`VOICE_CHANNEL_ID = PLACE_YOUR_VOICE_CHANNEL_ID`  # Replace with your voice channel ID
 
->`TEXT_CHANNEL_ID = PLACE_YOUR_TEXT_CHANNEL_ID`  # Replace with your text channel ID
+`TEXT_CHANNEL_ID = PLACE_YOUR_TEXT_CHANNEL_ID`  # Replace with your text channel ID
 
->`YOUR_GUILD_ID = PLACE_YOUR_YOUR_GUILD_ID`    # Replace with your Discord server ID
+`YOUR_GUILD_ID = PLACE_YOUR_YOUR_GUILD_ID`    # Replace with your Discord server ID
 
 
 
